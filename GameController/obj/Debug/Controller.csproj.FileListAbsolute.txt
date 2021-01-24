@@ -1,0 +1,2 @@
+C:\Users\Ryan\Documents\personal\Fall 2018\3500\SpaceWars\GameController\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\Ryan\Documents\personal\Fall 2018\3500\SpaceWars\GameController\obj\Debug\Controller.csproj.CoreCompileInputs.cache

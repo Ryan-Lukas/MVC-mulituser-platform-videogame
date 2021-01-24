@@ -1,0 +1,7 @@
+C:\Users\Ryan\Documents\personal\Fall 2018\3500\SpaceWars\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\personal\Fall 2018\3500\SpaceWars\Resources\bin\Debug\Resources.dll.config
+C:\Users\Ryan\Documents\personal\Fall 2018\3500\SpaceWars\Resources\bin\Debug\Resources.dll
+C:\Users\Ryan\Documents\personal\Fall 2018\3500\SpaceWars\Resources\bin\Debug\Resources.pdb
+C:\Users\Ryan\Documents\personal\Fall 2018\3500\SpaceWars\Resources\obj\Debug\Resources.dll
+C:\Users\Ryan\Documents\personal\Fall 2018\3500\SpaceWars\Resources\obj\Debug\Resources.pdb
+C:\Users\Ryan\Documents\personal\Fall 2018\3500\SpaceWars\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
